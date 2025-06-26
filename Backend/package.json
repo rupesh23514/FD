@@ -11,7 +11,11 @@
     "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["food-delivery", "express", "mongodb"],
+  "keywords": [
+    "food-delivery",
+    "express",
+    "mongodb"
+  ],
   "dependencies": {
     "bcrypt": "^6.0.0",
     "cors": "^2.8.5",
@@ -22,4 +26,4 @@
     "jsonwebtoken": "^9.0.0",
     "multer": "^1.4.5-lts.1"
   }
-} 
+}
